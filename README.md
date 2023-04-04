@@ -1,16 +1,3 @@
-# heyou
+HeyYou - the communication app that's taking the world by storm - is brought to you by Htech Ltd, a leading software development company that specializes in creating innovative, user-friendly apps. At Htech Ltd, we're passionate about helping businesses and individuals connect and communicate effectively. Our team of expert developers and designers have years of experience in crafting high-quality, custom apps that meet the unique needs of our clients. So if you're looking for a reliable partner to help you create your next big idea, look no further than Htech Ltd. Contact us today to learn more about our services and how we can help you bring your vision to life!
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
